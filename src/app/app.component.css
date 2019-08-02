@@ -1,0 +1,28 @@
+h3 {
+    margin-left: 10px;
+}
+.sample1 {
+    background-color: rgb(210, 255, 245);
+    border: solid 1px rgb(175, 245, 190);
+    margin-bottom: 24px;
+}
+.sample2 {
+    background-color: rgb(210, 245, 255);
+    border: solid 1px rgb(180, 200, 250);
+    margin-bottom: 24px;
+}
+.sample3 {
+    background-color: rgb(180, 238, 255);
+    border: solid 1px rgb(150, 190, 238);
+    margin-bottom: 24px;
+}
+.input {
+    background-color: rgb(255, 240, 200);
+    height: 40px;
+    width: 600px;
+    line-height: 40px;
+    margin: 5px;
+}
+.result {
+    background-color: rgb(255, 220, 180);
+}

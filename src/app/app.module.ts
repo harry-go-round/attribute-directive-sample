@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { InputTextDirective } from './directive/input-text.directive';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    InputTextDirective
   ],
   imports: [
     BrowserModule,
